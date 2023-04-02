@@ -5,5 +5,5 @@ This project contains data from the "Robot Improv" project, which was carried ou
 Required installations:
 - Python 2.7
 - Tkinter (for the GUI; python2 version)
-- Pillow (for GUI images)
+- Pillow (for the GUI images)
 - Pepper SDK 2.5.10 - Python 2.7 SDK (available at https://www.aldebaran.com/en/support/pepper-naoqi-2-9/downloads-softwares, see http://doc.aldebaran.com/2-8/dev/python/install_guide.html for installation instructions)
